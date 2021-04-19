@@ -1,0 +1,6 @@
+Credentials cache: API:68530AF8-7004-47A0-B024-ACA4EC5018FC
+        Principal: mfeijao@42LISBOA.COM
+
+  Issued                Expires               Principal
+Oct 25 09:31:03 2020  Oct 25 19:31:03 2020  krbtgt/42LISBOA.COM@42LISBOA.COM
+Oct 25 09:31:04 2020  Oct 25 19:31:03 2020  HTTP/student-storage.42lisboa.com@42LISBOA.COM
