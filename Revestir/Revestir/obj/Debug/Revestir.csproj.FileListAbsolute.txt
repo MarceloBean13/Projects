@@ -1,0 +1,12 @@
+C:\Users\marce\source\repos\Revestir\Revestir\bin\Debug\Revestir.exe.config
+C:\Users\marce\source\repos\Revestir\Revestir\bin\Debug\Revestir.exe
+C:\Users\marce\source\repos\Revestir\Revestir\bin\Debug\Revestir.pdb
+C:\Users\marce\source\repos\Revestir\Revestir\obj\Debug\Revestir.LogIn.resources
+C:\Users\marce\source\repos\Revestir\Revestir\obj\Debug\Revestir.Properties.Resources.resources
+C:\Users\marce\source\repos\Revestir\Revestir\obj\Debug\Revestir.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\Revestir\Revestir\obj\Debug\Revestir.exe
+C:\Users\marce\source\repos\Revestir\Revestir\obj\Debug\Revestir.pdb
+C:\Users\marce\source\repos\Revestir\Revestir\obj\Debug\Revestir.PagPrincipal.resources
+C:\Users\marce\source\repos\Revestir\Revestir\obj\Debug\Revestir.Produtos.resources
+C:\Users\marce\source\repos\Revestir\Revestir\obj\Debug\Revestir.NovoFornecedor.resources
+C:\Users\marce\source\repos\Revestir\Revestir\obj\Debug\Revestir.VerFornecedor.resources
