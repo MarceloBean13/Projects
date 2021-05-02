@@ -6,4 +6,6 @@ The C# Project is the folder that has the project I did in C# for the course of 
 
 The Revestir folder has a project that I did for my wife and her second hand shop. It consist basically on a simple Back-End Windows Forms Project to help organize in her job. It still needs some ajustments.
 
+C# Projects is a folder that contains all my recent C# projects.
+
 The last folder is 42 Projects, is where all the project I did and currently doing for the main course in 42 Lisboa. 
