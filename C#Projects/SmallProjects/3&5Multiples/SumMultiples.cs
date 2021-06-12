@@ -23,7 +23,7 @@ class SumMultiples
                 count++;
             }
             Console.Clear();
-            Console.WriteLine($"You chose the number {value} and the sum of all 3 and 5 multiples is {sum}");
+            Console.WriteLine($"You chose the number {value} and the sum of all multiples of 3 and 5 is {sum}");
             Console.ReadLine();
             Console.Clear();
             Console.WriteLine("Do you want to calculate another number? (y,n)");
