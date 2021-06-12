@@ -1,0 +1,6 @@
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\3&5Multiples\obj\x86\Debug\SumMultiples.csprojAssemblyReference.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\3&5Multiples\obj\x86\Debug\SumMultiples.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\3&5Multiples\bin\Debug\ConsoleApplication.exe
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\3&5Multiples\bin\Debug\ConsoleApplication.pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\3&5Multiples\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\3&5Multiples\obj\x86\Debug\ConsoleApplication.pdb
