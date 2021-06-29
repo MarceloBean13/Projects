@@ -13,4 +13,6 @@ C#Projects is a folder that contains all my recent C# projects.
 
 My Webpage, which contains my new website that I am developing bit by bit.
 
-The newest folder is JsProjects and it has some projects, for now only tests and learning ones, of JavaScript, the language that I'm currently learning everyday.
+The folder JsProjects and it has some projects, for now only tests and learning ones, of JavaScript, the language that I'm currently learning everyday.
+
+I am beginning to learn Unity so I have posted my first script for a 2D Character. Just jump and run for now =).
