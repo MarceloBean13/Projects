@@ -1,0 +1,13 @@
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\StringToCamelCase\bin\Debug\netcoreapp3.1\StringToCamelCase.exe
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\StringToCamelCase\bin\Debug\netcoreapp3.1\StringToCamelCase.deps.json
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\StringToCamelCase\bin\Debug\netcoreapp3.1\StringToCamelCase.runtimeconfig.json
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\StringToCamelCase\bin\Debug\netcoreapp3.1\StringToCamelCase.runtimeconfig.dev.json
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\StringToCamelCase\bin\Debug\netcoreapp3.1\StringToCamelCase.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\StringToCamelCase\bin\Debug\netcoreapp3.1\StringToCamelCase.pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\StringToCamelCase\obj\Debug\netcoreapp3.1\StringToCamelCase.csprojAssemblyReference.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\StringToCamelCase\obj\Debug\netcoreapp3.1\StringToCamelCase.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\StringToCamelCase\obj\Debug\netcoreapp3.1\StringToCamelCase.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\StringToCamelCase\obj\Debug\netcoreapp3.1\StringToCamelCase.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\StringToCamelCase\obj\Debug\netcoreapp3.1\StringToCamelCase.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\StringToCamelCase\obj\Debug\netcoreapp3.1\StringToCamelCase.pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\C#Projects\SmallProjects\StringToCamelCase\obj\Debug\netcoreapp3.1\StringToCamelCase.genruntimeconfig.cache
