@@ -1,9 +1,0 @@
-	body{
-	text-align:center;
-	font-family:"Playfair display";
-	}
-	p{
-		font-size:22px;
-	}
-	@font-face{ font-family: "Playfair display"; src: url(Imagens/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf);
-	}
