@@ -121,15 +121,35 @@ header {
   text-decoration: none;
   color: inherit;
 }
+
+.a_footer:link,
 .a_footer:visited {
   text-decoration: none;
   color: inherit;
   font-size: 0.9rem;
 }
-.a_footer-modal {
-  font-size: 0.9rem;
+.a_footer:hover {
+  text-decoration: none;
+  color: var(--primary_color);
+}
+
+/*!LISTS*/
+.ul_footer {
+  display: flex;
+  gap: 4.5rem;
+  font-size: 1.25rem;
   text-decoration: none;
   color: inherit;
+  list-style: none;
+}
+.a_footer-link:link,
+.a_footer-link:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+.a_footer-link:hover {
+  color: var(--primary_color);
 }
 /*!NAVIGATION ELEMENTS*/
 .nav {
@@ -223,6 +243,20 @@ header {
   right: 25%;
   transform: translate(50%, -50%);
 }
+.btn_footer {
+  position: relative;
+  left: 78rem;
+  top: -3.5rem;
+  color: rgb(192, 189, 189);
+  font-size: 4rem;
+  cursor: pointer;
+  text-decoration: none;
+  /* padding: 0rem 5rem 5rem 10rem; */
+}
+.btn_footer:hover {
+  color: var(--primary_color);
+  transform: scale(1.2, 1.2);
+}
 /*! SECTIONS */
 .section {
   padding: 4rem 15rem;
@@ -253,6 +287,8 @@ header {
 }
 
 .section_footer {
+  display: flex;
+  justify-content: space-between;
   padding: 5rem;
   background: #303036;
   color: #d3d3d3;
@@ -323,8 +359,19 @@ header {
   align-items: center;
   justify-content: center;
 }
+.div_footer-section {
+  display: flex;
+  position: absolute;
+  top: 2rem;
+  left: 25rem;
+  align-items: center;
+  justify-content: center;
+  gap: 5rem;
+}
 .div_footer {
-  justify-content: left;
+  position: flex;
+  float: right;
+  justify-content: center;
   padding-top: 1rem;
 }
 .div_footer_bottom {
@@ -336,7 +383,11 @@ header {
   left: 0rem;
   bottom: 0rem;
 }
-
+.div_list-footer {
+  position: absolute;
+  top: 12rem;
+  left: 25rem;
+}
 /*! MODAL WINDOW*/
 .modal {
   position: fixed;
@@ -349,6 +400,7 @@ header {
   box-shadow: 0 6rem 10rem rgb(0, 0, 0, 0.4);
   z-index: 100;
   transition: all 0.4s;
+  border-radius: 20%;
 }
 
 .overlay {
@@ -371,6 +423,13 @@ header {
 }
 .modal_form label {
   font-size: 1.2rem;
+}
+
+.modal_title {
+  color: var(--primary_color);
+}
+.modal input {
+  width: 20rem;
 }
 .label_mes {
   position: relative;
@@ -407,13 +466,17 @@ header {
   position: absolute;
   font-family: inherit;
   font-size: 3.5rem;
-  color: var(--primary_color);
+  color: var(--darker_primary_color);
   right: 2rem;
   border: none;
   background: none;
   cursor: pointer;
 }
 
+.btn_close-modal:hover {
+  transition: all 0.5s;
+  transform: rotateY(180deg);
+}
 .hidden {
   visibility: hidden;
   opacity: 0;

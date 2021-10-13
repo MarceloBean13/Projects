@@ -6,7 +6,8 @@
 const btnOpenModal = document.querySelector(".nav_item-btn");
 const btnLeftSlide = document.querySelector(".btn_left");
 const btnRightSlide = document.querySelector(".btn_right");
-const btnFooterModal = document.querySelector(".a_footer-modal");
+const btnFooterModal = document.querySelector(".a_open-modal");
+const btnFooterToTop = document.querySelector(".btn_footer");
 //NAV BAR
 const navBar = document.querySelector(".nav");
 const navLinks = document.querySelector(".nav_links");
@@ -23,6 +24,9 @@ const modal = document.querySelector(".modal");
 const overlay = document.querySelector(".overlay");
 const btnCloseModal = document.querySelector(".btn_close-modal");
 const btnSendModal = document.querySelector(".btn_send-modal");
+
+//FOOTER
+const footerItems = document.querySelector(".ul_footer");
 
 //!MAIN CODE
 //?GIVING NAV BAR STICKY
@@ -41,7 +45,6 @@ navObserver.observe(sectionOne);
 //?IMPLEMENTING NAV BAR ITEMS SMOOTH SCROLLS
 navLinks.addEventListener("click", (e) => {
   e.preventDefault();
-  console.log(e.target);
   if (e.target.classList.contains("nav_item")) {
     const getHref = e.target.getAttribute("href");
     document.querySelector(getHref).scrollIntoView({ behavior: "smooth" });
@@ -123,3 +126,29 @@ const closeModal = () => {
 btnOpenModal.addEventListener("click", openModal);
 btnCloseModal.addEventListener("click", closeModal);
 btnFooterModal.addEventListener("click", openModal);
+
+//? GO BACK TO TOP
+btnFooterToTop.addEventListener("click", function (e) {
+  e.preventDefault();
+  console.log(e.target);
+  const hrefTop = e.target.getAttribute("href");
+  document.querySelector(hrefTop).scrollIntoView({ behavior: "smooth" });
+});
+
+//?NAVIGATION IN FOOTER
+footerItems.addEventListener("click", function (e) {
+  e.preventDefault();
+  if (e.target.classList.contains("a_footer-link")) {
+    const getHref = e.target.getAttribute("href");
+    document.querySelector(getHref).scrollIntoView({ behavior: "smooth" });
+  }
+});
+
+//?SENDING EMAIL
+function emailSent() {
+  const name = document.getElementById("name").value;
+
+  alert(
+    ` Obrigado pelo contacto, ${name}! Entrarei em contacto o mais breve possível =)`
+  );
+}

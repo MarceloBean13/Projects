@@ -12,9 +12,9 @@
   </head>
   <body>
     <!--HEADER AND NAV ELEMENT-->
-    <header>
+    <header id="header">
       <nav class="nav">
-        <div class="div_nav">
+        <div class="div_nav" id="nav">
           <h3 class="name">Marcelo Feijão</h3>
           <img src="Imagens/Foto.jpg" class="photo" alt="My small face" />
         </div>
@@ -257,16 +257,22 @@
                 src="Imagens/Unity.png"
                 alt="Unity Logo"
               />
+              <img
+                class="img-lazy"
+                src="Imagens/LazyVim.png"
+                data-src="Imagens/Vim.png"
+                alt="Vim Logo"
+              />
             </div>
             <h4 class="ferr_img">
               Um pouco desactualizadas mas também já trabalhei
             </h4>
             <p>
               Aprendi a trabalhar em C no tempo que estive a fazer o meu curso
-              na escola 42 Lisboa e o Sequel Server Studio (SSMS) trabalhei para
-              algumas aplicações onde era necessário armazenamento de dados,
-              como um site de receitas e um pequeno programa para uma loja de
-              roupa.
+              na escola 42 Lisboa e em Sequel Server Studio (SSMS) trabalhei
+              para algumas aplicações onde era necessário armazenamento de
+              dados, como um site de receitas e um pequeno programa para uma
+              loja de roupa.
             </p>
             <div class="div_ferr_img">
               <img class="" src="Imagens/C.png" alt="C Logo" />
@@ -284,9 +290,9 @@
     <!--FOOTER ELEMENT-->
     <footer>
       <section class="section_footer" id="#section-6">
-        <div class="div_footer">
-          <h6><u>Sobre mim</u></h6>
+        <div class="div_footer-section">
           <div class="div_footer">
+            <h6><u>Sobre mim</u></h6>
             <p class="p_footer">
               Sou um Code Developer Freelancer que posso <br />ajudar a
               construir sites ou pequenas aplicações
@@ -300,20 +306,48 @@
           </div>
           <div class="div_footer">
             <h6><u>Contactar-me</u></h6>
-            <a class="a_footer-modal" href="#section-6">Escrever Mensagem</a>
+            <a class="a_footer a_open-modal" href="#section-6"
+              >Escrever Mensagem</a
+            >
           </div>
         </div>
+        <div class="div_list-footer">
+          <ul class="ul_footer">
+            <li class="li_footer">
+              <a class="a_footer-link" href="#section-2">Quem sou eu?</a>
+            </li>
+            <li class="li_footer">
+              <a class="a_footer-link" href="#section-3"
+                >Carreira Profissional</a
+              >
+            </li>
+            <li class="li_footer">
+              <a class="a_footer-link" href="#section-4">Os meus trabalhos</a>
+            </li>
+            <li class="li_footer">
+              <a class="a_footer-link" href="#section-5">Ferramentas</a>
+            </li>
+          </ul>
+        </div>
+        <a class="btn_footer" href="#header">&#x21e7;</a>
         <div class="div_footer_bottom">&copy;Designed by Marcelo Feijão</div>
       </section>
     </footer>
     <div class="modal hidden">
       <button class="btn_close-modal">&times;</button>
-      <h3>Diga-me em que posso ajudar!</h3>
-      <form class="modal_form">
+      <h3 class="modal_title">Diga-me em que posso ajudar!</h3>
+      <form
+        class="modal_form"
+        onsubmit="return emailSent()"
+        action="https://formsubmit.co/citizenmarcelo@gmail.com"
+        method="POST"
+      >
+        <input type="hidden" name="_subject" value="New Website Email" />
         <label>Nome</label>
         <input
           type="text"
           name="Nome"
+          id="name"
           placeholder="Escreva o seu nome"
           required
         />
@@ -321,11 +355,13 @@
         <input
           type="email"
           name="Email"
+          id="email"
           placeholder="Escreva o seu e-mail"
           required
         /><label class="label_mes"> Mensagem </label>
         <textarea
           class="modal_mes"
+          id="message"
           name="Mensagem"
           placeholder="Escreva aqui a sua mensagem"
           required
