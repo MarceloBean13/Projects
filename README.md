@@ -11,7 +11,7 @@ C#Projects is a folder that contains all my recent C# projects.
 
 42 Projects, is where all the project I did and am currently doing for the main course in 42 Lisboa. 
 
-My Webpage, which contains my new website that I am developing bit by bit.
+My Webpage, which has my new website that it is almost finish just some tunings here and there and it will be published!
 
 The folder JsProjects and it has some projects, for now only tests and learning ones, of JavaScript, the language that I'm currently learning everyday.
 
