@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.IO;
@@ -109,6 +104,7 @@ namespace PROJECTO__BACK_END_
                 PreencherIngrediente();
                 txtNomeIngrediente.Text = "";
                 cbUnidade.Text = "";
+
                 nudQuantidade.Value = 0;
             }
         }
@@ -476,6 +472,11 @@ namespace PROJECTO__BACK_END_
         private void dgvIngrediente_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             IDIngrediente = dgvIngrediente.CurrentRow.Cells[0].Value.ToString();
+
+        }
+
+        private void dgvReceitas_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
 
         }
 

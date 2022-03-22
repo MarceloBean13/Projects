@@ -50,3 +50,30 @@ C:\Users\marce\Desktop\PROJECTO\PROJECTO (BACK END)\obj\Debug\BACK END.csproj.Ge
 C:\Users\marce\Desktop\PROJECTO\PROJECTO (BACK END)\obj\Debug\BACK END.csproj.CopyComplete
 C:\Users\marce\Desktop\PROJECTO\PROJECTO (BACK END)\obj\Debug\PROJECTO (BACK END).exe
 C:\Users\marce\Desktop\PROJECTO\PROJECTO (BACK END)\obj\Debug\PROJECTO (BACK END).pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\bin\Debug\PROJECTO (BACK END).exe.config
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\bin\Debug\PROJECTO (BACK END).exe
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\bin\Debug\PROJECTO (BACK END).pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\bin\Debug\ClassLibraryPROJECTO.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\bin\Debug\EntityFramework.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\bin\Debug\System.Web.Providers.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\bin\Debug\ClassLibraryPROJECTO.pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\bin\Debug\ClassLibraryPROJECTO.dll.config
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\bin\Debug\EntityFramework.xml
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\bin\Debug\System.Web.Providers.xml
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\BACK END.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\PROJECTO__BACK_END_.CriacaodeConta.resources
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\PROJECTO__BACK_END_.LogIn.resources
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\PROJECTO__BACK_END_.MainPage.resources
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\PROJECTO__BACK_END_.Properties.Resources.resources
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\PROJECTO__BACK_END_.Receitas.resources
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\PROJECTO__BACK_END_.TipoCozinha.resources
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\PROJECTO__BACK_END_.TipoPrato.resources
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\PROJECTO__BACK_END_.UnidadedeMedida.resources
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\PROJECTO__BACK_END_.VerUtilizador.resources
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\BACK END.csproj.GenerateResource.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\BACK END.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\BACK END.csproj.CopyComplete
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\PROJECTO (BACK END).exe
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\PROJECTO (BACK END)\obj\Debug\PROJECTO (BACK END).pdb

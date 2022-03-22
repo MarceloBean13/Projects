@@ -89,6 +89,7 @@
             this.dgvReceitas.Size = new System.Drawing.Size(451, 497);
             this.dgvReceitas.TabIndex = 0;
             this.dgvReceitas.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
+            this.dgvReceitas.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvReceitas_CellContentClick);
             // 
             // lbNome
             // 

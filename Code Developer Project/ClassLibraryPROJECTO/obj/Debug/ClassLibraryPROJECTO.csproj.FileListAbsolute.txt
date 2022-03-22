@@ -19,3 +19,15 @@ C:\Users\marce\Desktop\PROJECTO\ClassLibraryPROJECTO\obj\Debug\ClassLibraryPROJE
 C:\Users\marce\Desktop\PROJECTO\ClassLibraryPROJECTO\obj\Debug\ClassLibraryPROJECTO.csproj.CopyComplete
 C:\Users\marce\Desktop\PROJECTO\ClassLibraryPROJECTO\obj\Debug\ClassLibraryPROJECTO.dll
 C:\Users\marce\Desktop\PROJECTO\ClassLibraryPROJECTO\obj\Debug\ClassLibraryPROJECTO.pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\ClassLibraryPROJECTO\bin\Debug\ClassLibraryPROJECTO.dll.config
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\ClassLibraryPROJECTO\bin\Debug\ClassLibraryPROJECTO.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\ClassLibraryPROJECTO\bin\Debug\ClassLibraryPROJECTO.pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\ClassLibraryPROJECTO\bin\Debug\EntityFramework.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\ClassLibraryPROJECTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\ClassLibraryPROJECTO\bin\Debug\EntityFramework.xml
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\ClassLibraryPROJECTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\ClassLibraryPROJECTO\obj\Debug\ClassLibraryPROJECTO.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\ClassLibraryPROJECTO\obj\Debug\ClassLibraryPROJECTO.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\ClassLibraryPROJECTO\obj\Debug\ClassLibraryPROJECTO.csproj.CopyComplete
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\ClassLibraryPROJECTO\obj\Debug\ClassLibraryPROJECTO.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\Projectos\Code Developer Project\ClassLibraryPROJECTO\obj\Debug\ClassLibraryPROJECTO.pdb
